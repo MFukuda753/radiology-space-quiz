@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1789457778|27557965';
+const CACHE_VERSION = '1789458714|963155965';
 /** @type {string} */
 const CACHE_PREFIX = 'Oral radiology q-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
